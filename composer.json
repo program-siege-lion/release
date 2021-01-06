@@ -1,8 +1,8 @@
 {
     "name": "sunshaolei/release",
     "description": "dev",
-    "type": "project",
-    "license": "MIT",
+    "type": "1",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "sunshaolei",
@@ -10,7 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "php": "7.2.19"
+    },
     "autoload":{
         "psr-4":{
             "sunshaolei\\":"src/sunshaolei"
