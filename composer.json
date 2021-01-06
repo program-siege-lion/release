@@ -1,0 +1,14 @@
+{
+    "name": "sunshaolei/release",
+    "description": "dev",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sunshaolei",
+            "email": "sun_shao_lei@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
